@@ -29,14 +29,8 @@
 
 ---
 
-### 😂 Random Dev Joke  
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark)
-
----
-
 ### 🔗 Connect with me  
 - 🌐 Portfolio: [Coming Soon 🚀](#)  
-- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/...)  
 - 📧 Email: zebouchilina2@gmail.com
 
 ---
