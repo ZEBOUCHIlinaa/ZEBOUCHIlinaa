@@ -45,12 +45,6 @@
 - 📊 Interested in AI + Data Visualization  
 - 🎨 Enjoy making **modern UI dashboards**  
 
----
-
-### 📈 GitHub Stats  
-
-![Nina's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZEBOUCHIlinaa&show_icons=true&theme=radical&hide=stars,prs,issues,contribs)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZEBOUCHIlinaa&layout=compact&theme=tokyonight)
 
 ---
 
@@ -71,19 +65,14 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=ZEBOUCHIlinaa&theme=onedark&row=1&column=6)
 
----
-
-### 🐍 Contribution Snake  
-
-![GitHub Snake Light](https://github.com/ZEBOUCHIlinaa/ZEBOUCHIlinaa/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)  
-![GitHub Snake Dark](https://github.com/ZEBOUCHIlinaa/ZEBOUCHIlinaa/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)  
 
 ---
 
 ### 🎶 Vibes  
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)  
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=default&layout=default&font=Gabrielle)  
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 ---
 
