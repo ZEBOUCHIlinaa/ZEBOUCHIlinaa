@@ -50,7 +50,7 @@
 
 ### 📈 GitHub Stats  
 
-![Nina's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight)  
+![Nina's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ZEBOUCHIlinaa&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ZEBOUCHIlinaa&layout=compact&theme=tokyonight)
 
 ---
