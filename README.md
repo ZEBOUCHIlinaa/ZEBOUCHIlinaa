@@ -44,14 +44,7 @@
 - 🔥 Love solving problems with code  
 - 📊 Interested in AI + Data Visualization  
 - 🎨 Enjoy making **modern UI dashboards**  
-- 🌐 Check out my [Portfolio](https://your-portfolio-link.com)  
 
----
-
-### 📈 GitHub Stats  
-
-![Nina's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ZEBOUCHIlinaa&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ZEBOUCHIlinaa&layout=compact&theme=tokyonight)
 
 ---
 
