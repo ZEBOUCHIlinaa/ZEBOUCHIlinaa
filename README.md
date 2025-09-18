@@ -1,36 +1,90 @@
-# Hey there, I'm Nina 👋  
+<!-- Profile README -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFAB&center=true&vCenter=true&width=435&lines=Hi+I'm+Nina!+👋;CS+Student+at+USTHB;Web+Dev+%7C+AI+Enthusiast;Future+Detective+Writer+%F0%9F%93%96)](https://git.io/typing-svg)
+<h1 align="center">Hi 👋, I'm Nina</h1>
+<h3 align="center">💻 Full Stack Developer | Student at USTHB</h3>
 
 ---
 
-### 🔧 Languages & Tools  
+### 🖊️ About Me  
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=F70000&width=600&lines=Full+Stack+Developer;Passionate+about+Coding;Always+Learning!)](https://git.io/typing-svg)
+
+- 🚀 Currently working on **EmotionalCompanion**  
+- 🌱 Learning **System Design, AI & Cloud**  
+- 💡 Always open to collaboration on cool projects  
+- 🎯 Goal: **Build impactful apps that help people**  
+- ⚡ Fun fact: Coffee ☕ + Coding = Happiness  
+
+---
+
+### 🛠️ Languages & Tools  
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=fff)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=fff)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=fff)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)
+![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=000)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2b%2b&logoColor=fff)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=fff)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=000)
 
 ---
 
-### 📊 GitHub Stats  
-![Nina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZEBOUCHIlinaa&show_icons=true&theme=radical)  
+### ✨ Cool Stuff  
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" align="right"/>
+
+- 🔥 Love solving problems with code  
+- 📊 Interested in AI + Data Visualization  
+- 🎨 Enjoy making **modern UI dashboards**  
 
 ---
 
-### 📈 Contribution Graph  
-![Nina's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ZEBOUCHIlinaa&theme=react-dark)
+### 📈 GitHub Stats  
+
+![Nina's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZEBOUCHIlinaa&show_icons=true&theme=radical&hide=stars,prs,issues,contribs)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZEBOUCHIlinaa&layout=compact&theme=tokyonight)
 
 ---
 
-### 🔗 Connect with me  
-- 🌐 Portfolio: [Coming Soon 🚀](#)  
-- 📧 Email: zebouchilina2@gmail.com
+### 📊 My Favorite Languages  
+
+![JavaScript](https://img.shields.io/badge/JavaScript-25%25-yellow?style=for-the-badge&logo=javascript&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-20%25-blue?style=for-the-badge&logo=python&logoColor=white)  
+![C](https://img.shields.io/badge/C-15%25-lightgrey?style=for-the-badge&logo=c&logoColor=black)  
+![C++](https://img.shields.io/badge/C++-10%25-blueviolet?style=for-the-badge&logo=c%2b%2b&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-10%25-orange?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-8%25-blue?style=for-the-badge&logo=css3&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-7%25-green?style=for-the-badge&logo=node.js&logoColor=white)  
+![React](https://img.shields.io/badge/React-5%25-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
 
 ---
 
-⭐️ From [Nina](https://github.com/YOUR_USERNAME)
+### 🏆 Achievements  
+
+![trophy](https://github-profile-trophy.vercel.app/?username=ZEBOUCHIlinaa&theme=onedark&row=1&column=6)
+
+---
+
+### 🐍 Contribution Snake  
+
+![GitHub Snake Light](https://github.com/ZEBOUCHIlinaa/ZEBOUCHIlinaa/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)  
+![GitHub Snake Dark](https://github.com/ZEBOUCHIlinaa/ZEBOUCHIlinaa/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)  
+
+---
+
+### 🎶 Vibes  
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)  
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=default&layout=default&font=Gabrielle)  
+
+---
+
+⭐ From [Nina](https://github.com/ZEBOUCHIlinaa)  
