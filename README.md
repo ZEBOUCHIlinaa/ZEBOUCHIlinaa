@@ -9,7 +9,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=F70000&width=600&lines=Full+Stack+Developer;Passionate+about+Coding;Always+Learning!)](https://git.io/typing-svg)
 
-- 🚀 Currently working on **EmotionalCompanion**  
+- 🚀 Currently working on **Moodly**  
 - 🌱 Learning **System Design, AI & Cloud**  
 - 💡 Always open to collaboration on cool projects  
 - 🎯 Goal: **Build impactful apps that help people**  
